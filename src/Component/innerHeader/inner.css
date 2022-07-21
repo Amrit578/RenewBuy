@@ -1,0 +1,14 @@
+.inner{
+    display: flex;
+    height: 3vh;
+    justify-content: space-between;
+    margin-left: 350px;
+    width: 1000px;
+    margin-top: 4px;
+}
+.project{
+    font-size: 2rem;
+}
+.week{
+    font-size: 1.2rem;
+}
